@@ -1,0 +1,3 @@
+👉 Agrega al final de cada función importante como esta línea:
+system("pause");   // Espera al usuario
+system("cls");     // Limpia pantalla (solo en Windows)
